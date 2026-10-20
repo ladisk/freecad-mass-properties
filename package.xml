@@ -12,11 +12,12 @@
   <icon>Resources/icons/MassProperties.svg</icon>
   <freecadmin>1.0.0</freecadmin>
   <content>
-    <other>
+    <workbench>
       <name>Mass Properties</name>
+      <subdirectory>./</subdirectory>
       <tag>inertia</tag>
       <tag>mass</tag>
       <tag>analysis</tag>
-    </other>
+    </workbench>
   </content>
 </package>
