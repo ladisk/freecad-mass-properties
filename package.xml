@@ -6,9 +6,9 @@
   <date>2026-10-20</date>
   <maintainer email="zaletelj.klemen@gmail.com">Klemen Zaletelj</maintainer>
   <license file="LICENSE">MIT</license>
-  <url type="repository" branch="main">https://github.com/klemengit/freecad-mass-properties</url>
-  <url type="bugtracker">https://github.com/klemengit/freecad-mass-properties/issues</url>
-  <url type="readme">https://github.com/klemengit/freecad-mass-properties/blob/main/README.md</url>
+  <url type="repository" branch="main">https://github.com/ladisk/freecad-mass-properties</url>
+  <url type="bugtracker">https://github.com/ladisk/freecad-mass-properties/issues</url>
+  <url type="readme">https://github.com/ladisk/freecad-mass-properties/blob/main/README.md</url>
   <icon>Resources/icons/MassProperties.svg</icon>
   <freecadmin>1.0.0</freecadmin>
   <content>

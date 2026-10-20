@@ -29,7 +29,7 @@ when a reference frame is aligned with the principal axes.
 ## Installation
 
 In FreeCAD, open **Edit → Preferences → Addon Manager**, add a custom
-repository with URL `https://github.com/klemengit/freecad-mass-properties` and
+repository with URL `https://github.com/ladisk/freecad-mass-properties` and
 branch `main`, then install **Mass Properties** from the Addon Manager and
 restart FreeCAD.
 
